@@ -1,0 +1,10 @@
+C:\Users\henri\Desktop\Ws Towers\bin\Debug\Ws Towers.exe.config
+C:\Users\henri\Desktop\Ws Towers\bin\Debug\Ws Towers.exe
+C:\Users\henri\Desktop\Ws Towers\bin\Debug\Ws Towers.pdb
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws_Towers.Properties.Resources.resources
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws_Towers.Views.Login.resources
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws Towers.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws Towers.exe
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws Towers.pdb
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws_Towers.Views.Senha.resources
+C:\Users\henri\Desktop\Ws Towers\obj\Debug\Ws_Towers.Views.Home.resources
